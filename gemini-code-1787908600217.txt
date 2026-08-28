@@ -1,0 +1,6 @@
+pulse-society/
+├── index.html
+├── tickets.html
+├── styles.css
+└── assets/
+    └── logo.jpg  <-- Place your provided logo image here
